@@ -1,7 +1,7 @@
 # Superstore-Sales-Data-Analysis
 The objective of this project is "Create a dashboard showing sales performance by region, product,  and time period'.
 
-![](images/1st image.JPG)
+![](images/1st_image.JPG)
 This dashboard presents a visual summary of sales performance across regions, products, and time periods using:
 
 KPI Cards for Total Sales, Total Profit, and Profit Percentage.
@@ -22,3 +22,5 @@ Line Chart illustrating Sum of Sales by Month to show seasonal trends.
 
 Filters/Slicers for Year, State, and Ship Mode to enable interactive data exploration.
 
+![](images/2nd_image.JPG)
+![](images/3rd_image.JPG)
